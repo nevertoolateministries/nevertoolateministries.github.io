@@ -1,0 +1,10 @@
+<node>
+  <node label="In The Beginning">
+		<node label="What a Friend (Sample)" src="sounds/whatafriend.mp3" artist="Never Too Late" album="In The Beginning" track="1" length="0:20" cover="images/in_the_beginning.jpg" />
+    <node label="Where Could I Go (Sample)" src="sounds/wherecouldigo.mp3" artist="Never Too Late" album="In The Beginning" track="2" length="0:20" cover="images/in_the_beginning.jpg" />
+  </node>
+  <node label="Born Again">
+		<node label="Climbing The Ladder (Sample)" src="sounds/climbingtheladder.mp3" artist="Never Too Late" album="Born Again" track="1" length="0:20" cover="images/born_again.jpg" />
+    <node label="Drunkard's Prayer (Sample)" src="sounds/drunkardsprayer.mp3" artist="Never Too Late" album="Born Again" track="2" length="0:20" cover="images/born_again.jpg" />
+  </node>
+</node>

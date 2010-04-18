@@ -1,0 +1,9 @@
+This sample demonstrates how to create a jukebox by using data types, general coding principles, and several components.
+
+Three sample MP3 files are in the sounds folder: AquoVisit_sample.mp3, MagicalSchool_sample.mp3, and Temple of the Moon_sample.mp3. In general, it is easiest to make copies of the MP3 sound files and place the MP3s in a subfolder of the folder that contains the FLA or SWF file. Try to choose MP3 files that have ID3 information, which displays in the SWF file.
+
+When testing the application, the library.xml file loads in and is parsed by Flash. The Tree component displays the folder and file names of the MP3s. To add a song to your playlist, click the song title in the Tree component and then click on the "2. Playlist" heading in the Accordion component instance. The active accordion pane slides into place and reveals a DataGrid that displays the song's title, artist and length. A Label component below the DataGrid displays the total number of songs currently in the playlist as well as the total playlist time.
+
+To begin playback of a particular song, click on the appropriate row of the DataGrid. You'll see that a MediaController component instance near the top of the Stage reports the current playhead location within the currently played audio track. To view more details on the current track, switch to the third child pane in the accordion, entitled "3. Now Playing". This page allows you to see the cover art the current MP3 (as defined in the song's "cover" attribute in the library.xml file). 
+
+This page also contains another MediaController component, which allows us to pause the currently playing song, or move the playhead to a particular part of the song. You can adjust the volume of the song and view some additional file information returned by the MP3s ID3 tags. If you don't see the appropriate information in your MP3 files' ID3 tag, try modifying the ID3 tags in an external MP3 program such as iTunes or WinAmp.
