@@ -1,0 +1,13 @@
+<icons>
+
+<icon image="images/icons/the_group.png" tooltip="The Group" content="the_group.html" />
+
+<icon image="images/icons/about_us.png" tooltip="About Us" content="about_us.html" />
+
+<icon image="images/icons/contact_us.png" tooltip="Contact Us" content="contact_us.html" />
+
+<icon image="images/icons/in_the_beginning.jpg" tooltip="In The Beginning" content="in_the_beginning.html" price="$14.50" url="https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=info%40nevertoolateministries%2ecom&item_name=In%20The%20Beginning&item_number=001&amount=14%2e50&no_shipping=0&no_note=1&currency_code=USD&lc=US&bn=PP%2dBuyNowBF&charset=UTF%2d8" />
+
+<icon image="images/icons/born_again.jpg" tooltip="Born Again" content="born_again.html" price="$14.50" url="https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=info%40nevertoolateministries%2ecom&item_name=Born%20Again&item_number=002&amount=14%2e50&no_shipping=0&no_note=1&currency_code=USD&lc=US&bn=PP%2dBuyNowBF&charset=UTF%2d8" />
+
+</icons>
